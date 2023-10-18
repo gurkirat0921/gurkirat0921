@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurkirat kaur</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7ujpwgI4AxuAVluz8WA6cF7t7tkwcKA9PQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkirat0921&label=Profile%20views&color=0e75b6&style=flat" alt="gurkirat0921" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurkirat0921" alt="gurkirat0921" /></a> </p>
 
 - 🔭 I’m currently working on **PCOS(Polycystic ovary syndrome)**
 
@@ -19,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurkirat-kaur-2109-gs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurkirat-kaur-2109-gs" height="30" width="40" /></a>
+<a href="https://kaggle.com/gurkiratkaur9549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gurkiratkaur9549" height="30" width="40" /></a>
 <a href="https://instagram.com/gurkiratkaur71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurkiratkaur71" height="30" width="40" /></a>
 </p>
 
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurkirat0921&show_icons=true&locale=en" alt="gurkirat0921" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurkirat0921&" alt="gurkirat0921" /></p>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7ujpwgI4AxuAVluz8WA6cF7t7tkwcKA9PQ&usqp=CAU">
